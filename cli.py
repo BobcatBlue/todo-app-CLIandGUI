@@ -10,18 +10,13 @@ while True:
 
     if user_action.startswith("add"):
         todo = user_action[4:]
-
         todos = get_todos()
-
         todos.append(todo + "\n")
-
         write_todos(todos)
-
         message = f"\n'{user_action[4:]}' has been added to the list!\n"
         print(message)
 
     elif user_action.startswith("show"):
-
         todos = get_todos()
 
         for index, item in enumerate(todos):

@@ -1,12 +1,4 @@
 Take out the Trash
 Learn to Code
-Make Coffee
-Pack the Car
-Call my friend
-Mow the lawn
-solve world hunger
-go to class
-Make coffee
-Finish the race
-Go to class
-Master Python
+Fix the code
+Go for a swim
